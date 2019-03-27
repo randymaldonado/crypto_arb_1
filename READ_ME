@@ -1,0 +1,12 @@
+Notes on this script:
+
+The find_best_symbol() function would ideally be a machine learning algorithm that would return the best
+symbol to trade for a 30 minute long period. Updates to come.
+
+There is a lack of a slippage model, hence rendering the algorithm inacurate compared to theoretial profits evaluated in
+the arbitrage() function.
+
+This algorithm has been decomissioned indefinetly from my personal trading strategies due to the lack of a slippage model.
+
+I am currently running a market making algo on GDAX, which will not be posted on git hub unless decommisioned.
+
